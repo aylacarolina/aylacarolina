@@ -3,7 +3,7 @@
 
 - 😄 Pronomes: Ela/Dela
 - ✨ Minhas soft skills: Engajada, Resiliente, Colaborativa, Consistente, Pragmática e Original.
-- 🌱 Estou estudando ~> HTML5, CSS3, JavaScript, Git, Python3 e terminais windows e linux.
+- 🌱 Estou estudando ~> HTML5, CSS3, JavaScript, Git e Python3.
 - 🔭 Atualmente buscando uma vaga de estágio/jr.
 
 <div align="center">
